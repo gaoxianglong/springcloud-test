@@ -1,0 +1,9 @@
+# IntelliJ project files
+.idea
+*.iml
+
+# for Maven
+api-gateway/target
+eureka-register/target
+service-a-test/target
+service-b-test/target
